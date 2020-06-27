@@ -1,0 +1,17 @@
+Shengqi "Lucas" Li
+
+sli396
+
+975855289
+
+JDK 13, Java v13.0.2
+
+IntelliJ IDEA
+
+All java files are located in folder "src"
+
+Total time spent: approx. 6 hours
+
+Area i find easy: writing each subclass for code runner
+
+Area i find hard: boundary path, and spinning circle
